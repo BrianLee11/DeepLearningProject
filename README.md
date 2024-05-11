@@ -20,7 +20,7 @@ Wind power is one of the most installed renewable energy resources in the world,
     python >= 3.7
 
 
-## part 1: Benchmark model
+## Part 1: Benchmark model
 
 Informer model and result using this model are saved in the folder 1_benchmark_result. 
 
