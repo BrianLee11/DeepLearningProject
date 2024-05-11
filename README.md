@@ -23,7 +23,8 @@ Wind power is one of the most installed renewable energy resources in the world,
 ## part 1: Benchmark model
 
 Informer model and result using this model are saved in the folder 1_benchmark_result. 
-This model and its prediction result would be the baseline to be outperformed. 
+
+Objective: This model and its prediction result would be the baseline to be outperformed. 
 
 
 ## Part 2: Model Training and Testing with the demo script
@@ -32,4 +33,3 @@ Run_RNN, Run_LSTM, Run_Our_Model are files to train corresponding model.
 These files are saved in the folder 2_improved_model
 
 Objective: These models are developed to outperform prediction accuracy from the part 1's benchmark model. 
-
