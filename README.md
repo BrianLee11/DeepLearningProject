@@ -20,6 +20,8 @@ Wind power is one of the most installed renewable energy resources in the world,
 ## Model Training and Testing with the demo script
 
 Run_RNN, Run_LSTM, Run_Our_Model are files to train corresponding model.
+These files are saved in the folder 2_improved_model
 
+## Benchmark model
 
-    
+Informer model and result using this model are saved in the folder 1_benchmark_result   
