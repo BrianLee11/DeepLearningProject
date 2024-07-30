@@ -25,10 +25,8 @@ Objective: This model and its prediction result would be the baseline to be outp
 - **Informer model** and result using this model are saved in the folder 1_benchmark_result. 
 
 
-
 ## Part 2: Model Training and Testing with the demo script
 Objective: These models are developed to outperform prediction accuracy from the part 1's benchmark model. 
-
-Run_RNN, Run_LSTM, Run_Our_Model are files to train corresponding model.
-These files are saved in the folder 2_improved_model
+- Training models: **Run_RNN, Run_LSTM, Run_Our_Model**
+- These files are saved in the folder 2_improved_model
 
