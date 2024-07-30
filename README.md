@@ -22,8 +22,7 @@ Wind power is one of the most installed renewable energy resources in the world,
 
 ## Part 1: Benchmark model
 Objective: This model and its prediction result would be the baseline to be outperformed. 
-
-Informer model and result using this model are saved in the folder 1_benchmark_result. 
+- **Informer model** and result using this model are saved in the folder 1_benchmark_result. 
 
 
 
